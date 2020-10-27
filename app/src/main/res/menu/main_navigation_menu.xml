@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/meal"
+        android:title="Еда"
+        android:icon="@drawable/ic_menu_meal"/>
+    <item
+        android:id="@+id/drink"
+        android:title="Напитки"
+        android:icon="@drawable/ic_menu_drink"/>
+    <item
+        android:id="@+id/desert"
+        android:title="Десерт"
+        android:icon="@drawable/ic_menu_desert"/>
+</menu>
